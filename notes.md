@@ -19,10 +19,10 @@
 ### Setup
 ```shell
 python -m venv [env-name]
-source [env-name]/bin/activate
+source ML-Practice/bin/activate
 pip install numpy pandas scikit-learn matplotlib seaborn ipykernel jupyter
-python -m ipykernel install --user --name=[display-name]
+python -m ipykernel install --user --name=ML-Practice
 jupyter notebook
 ```
 
-
+## ML Systems Vs Classical Systems
